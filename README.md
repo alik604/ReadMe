@@ -33,7 +33,7 @@
   + I ended up getting tired of android app development and needed to focus on MACM 101 Discrete Math. I ended up starting web development (much more CO-OPs for that) before adding Google maps,polishing up, and posting this app. I may do so...one day 
   
 ## Classes
-* [CMPT 318: Cyber Security (R; should be called data analytics) ] (will be posted 1st week of december AKA after project is marked)
+* [CMPT 318: Cyber Security (R; should be called data analytics) ](will be posted 1st week of december AKA after project is marked)
 * [CMPT 225: Data Structures and Programming (C++)](https://github.com/alik604/CMPT225)
 * [CPSC 1181: Object-oriented Computing (Java)](https://github.com/alik604/CPSC1181-OOP_in_Java)
 * [CPSC 1150: Program Design (Java)](https://github.com/alik604/CPSC1150)
