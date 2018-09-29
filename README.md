@@ -3,7 +3,7 @@
 >find out what is where 
 
 ## Resume
-* [Resume (not edited)... its a placeholder till i make it a portfolio website](https://github.com/alik604/alik604.github.io)
+* [Resume (not edited)... its a placeholder till i make it a portfolio website](https://alik604.github.io/)
 
 ## Notes
 * [Notes, mainly for data science, machine learning, and math](https://github.com/alik604/Notes)
