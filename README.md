@@ -30,7 +30,7 @@
   + [Play Store link (Coming soon)](https://play.google.com/store/apps/developer?id=Khizr+Ali+Pardhan)
 * [Basic Alarm App](https://github.com/alik604/basicAlarmApp-vibOnly)
 * [Basic GPS App](https://github.com/alik604/android-GPS)
-  + I ended up getting tired of android app development and needed to focus on MACM 101 Discrete Math. I ended my starting web development (much more CO-OPs for that) before adding Google maps,polishing up, and posting this app. I may do so...one day 
+  + I ended up getting tired of android app development and needed to focus on MACM 101 Discrete Math. I ended up starting web development (much more CO-OPs for that) before adding Google maps,polishing up, and posting this app. I may do so...one day 
   
 ## Classes
 * [CMPT 318: Cyber Security (R; should be called data analytics) ] (will be posted 1st week of december AKA after project is marked)
