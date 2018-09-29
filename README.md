@@ -16,8 +16,6 @@
 
 #### 'data related' (machine learning, teaching myself hadoop, data analytics....) 
 * [COMING SOON] (Deadline 01/2019)
-* [XXXXX](YYYYYY)
-* [XXXXX](YYYYYY)
 
 #### Web
 * [stock watch list and simulator](https://github.com/alik604/stockApp)
