@@ -21,7 +21,8 @@
 
 #### Web
 * [stock watch list and simulator](https://github.com/alik604/stockApp)
-* [XXXXX](YYYYYY)
+* [online chat](https://github.com/alik604/ChatIO-online-chat-app)
+  + [Deployed here](http://whispering-island-50637.herokuapp.com/?)
 
 #### Android 
 * [99 names of God](https://github.com/alik604/theNamesOfAllah)
