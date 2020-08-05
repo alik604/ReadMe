@@ -34,10 +34,9 @@ Currently in a grad-level ML course, [CMPT 419/726: Machine Learning](https://co
 Research Interests: Predictive modeling of Human behavior
 
 
-# Personal Projects - currently:
+# Personal Projects - Current:
 
 ## Deep learning
-* [The "MNIST" of Brain Digits; Given the brain signal(s) of 2 seconds each, captured with the stimulus of seeing a digit (from 0 to 9) and thinking about it, determine what the digit is](https://github.com/alik604/mnist_brain)
 * [CMPT 419/726: Machine learning - Group project (Time Series Prediction)](https://github.com/alik604/cmpt-419)
    + I am able to do all the NNs in the repo.
 * Time series prediction (On going for 20 months)
@@ -57,6 +56,8 @@ Research Interests: Predictive modeling of Human behavior
 
 Ordered chronologically
 
+##[The "MNIST" of Brain Digits](https://github.com/alik604/mnist_brain)
+ - Given the brain signal(s) of 2 seconds each, captured with the stimulus of seeing a digit (from 0 to 9) and thinking about it, determine what the digit is
 ## [Cybersecurity](https://github.com/alik604/cyberSecurity)
 
 - [Network Intrusion Detection](https://github.com/alik604/cyber-security)
