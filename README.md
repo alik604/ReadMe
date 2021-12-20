@@ -1,6 +1,7 @@
 # NOTICE
 This have been moved to GitHubs by special profile repo: [https://github.com/alik604/alik604](https://github.com/alik604/alik604)
-> This is archive for external links from youtube and mediums blogs posts. 
+> This is archived for external links from my youtube videos and medium.com blogs posts. 
+
 # Directory to my GitHub
 
 
